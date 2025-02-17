@@ -1,0 +1,3 @@
+This project discusses about the Image generation task using stable diffusion technique and comfy UI which aids or acts as an interface for the user to execute the prompts for generating appropriate images. The UI is very easy to use and understandable. I have used pre trained stable diffusion model, offered by hugging face (https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5).
+Stable diffusion model generates high quality images from text. The model is open sourced, model weights are available in hugging face. The below is the architecture of stable diffusion.
+![image](https://github.com/user-attachments/assets/beb0333b-da11-483e-9abb-421f192a951c)
